@@ -12,6 +12,14 @@ footer {
     height: 2rem;
 }
 
+#container{
+    display: flex;
+}
+
+.cartao{
+    margin: 1rem 1rem;
+}
+
 footer p{
     text-align: center;
     font-size: 0.7rem;
