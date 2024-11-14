@@ -18,10 +18,10 @@ footer {
 
 .cartao{
     margin: 1rem 1rem;
-    background-color: grey;
+    background-color: gray;
     height: 15rem;
     flex-grow: 1;
-    flex-basis: calc(33% - 0.5rem);
+    flex-basis: calc(33% - 0.6rem);
 }
 
 .cartao__conteudo{
