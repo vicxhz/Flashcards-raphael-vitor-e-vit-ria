@@ -20,6 +20,8 @@ footer {
 
 #container{
     display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
 }
 
 .cartao{
@@ -57,6 +59,7 @@ footer {
 .cartao__conteudo__pergunta p {
     color: var(--text-front-color);
     font-weight: 600;
+    margin-top: 4rem;
 }
 
 .cartao__conteudo__resposta p {
