@@ -29,7 +29,7 @@ footer {
     flex-basis: calc(33% - 0.6rem);
 }
 
-.cartao__conteudo{
+.cartao__conteudo p{
     text-align: center;
     height: 100%;
     background-color: var(--card-front-color);
